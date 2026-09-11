@@ -1,5 +1,9 @@
-## Hi there 👋
-
+<img src="header.png" width="100%" />
+<div align="center">
+  <h1>Your Name</h1>
+  <p>Some tagline text</p>
+</div>
+<img src="https://ibb.co/tpQmzXkk" width="100%" />
 <!--
 **EverlastingStorm/EverlastingStorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
