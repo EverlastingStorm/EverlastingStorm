@@ -3,7 +3,9 @@
   <h3>Ello, you can call me Synth,</h3>
   <p>I like dabbling in cobblemon/minecraft textures and baking, alongside hanging out my favorite fandoms.</p>
 
-  <p>I'm over 18yo, so readers **below 16 DNI** unless it is a brief or professional interaction. </p>
+  <p>I'm over 18yo, so readers **below 16 DNI** unless it is a brief or professional interaction.
+    Not much to see here, just a personal gallery (maybe in the future?) and basic info.
+  </p>
   <p>---------------------------------------------------------</p>
   
   <h3>INTERESTS</h3>
@@ -12,8 +14,9 @@
   </p>
 </div>
 <div align="center">
-  <p>Here's four of my most personally liked cobblemon custom textures, if anyone's curious.. I make these for a server.
+  <p>Here's some of my personal favorite custom textures I've made, if anyone's curious.. I make these for a cobblemon server.
     Texture related inquiries always welcome I'll happily yap about them.
+    Yes, I love scolipede, how can you tell?
   </p>
   <table>
   <tr>
@@ -21,6 +24,11 @@
     <td><img src="https://i.ibb.co/3mwmpYLH/garchomp.png" width="200"></td>
     <td><img src="https://i.ibb.co/v6sbMqxQ/leafeon.png" width="200"></td>
     <td><img src="https://i.ibb.co/W4Hj07v8/scoli.png" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/VrgbWKH/scoli-3.png" width="200"></td>
+    <td><img src="https://i.ibb.co/5Xyk5JPc/scoli-2.png" width="200"></td>
+    <td><img src="https://i.ibb.co/S7Kbg2D9/hax.png" width="200"></td>
   </tr>
 </table>
 </div>
