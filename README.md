@@ -12,11 +12,12 @@
   <p>Phighting, Decaying Winter, Minecraft -> Cobblemon -> voxel & pixel, SSO, Godzilla.
     Synthwave, rock and metal music... uhh.. can't name more off the top of my head lol. Whatever catches on I guess, I'm open to talking about anything!
   </p>
+  <p>---------------------------------------------------------</p>
 </div>
 <div align="center">
   <p>Here's some of my personal favorite custom textures I've made, if anyone's curious.. I make these for a cobblemon server.
     Texture related inquiries always welcome I'll happily yap about them.
-    Yes, I love scolipede, how can you tell?
+    Yes, I love scolipede.
   </p>
   <table>
   <tr>
@@ -29,21 +30,8 @@
     <td><img src="https://i.ibb.co/VrgbWKH/scoli-3.png" width="200"></td>
     <td><img src="https://i.ibb.co/5Xyk5JPc/scoli-2.png" width="200"></td>
     <td><img src="https://i.ibb.co/S7Kbg2D9/hax.png" width="200"></td>
+    <td><img src="https://i.ibb.co/4RXMcPQm/umbre.png" width="200"></td>
   </tr>
 </table>
 </div>
 <img src="https://i.ibb.co/fdq19vBB/thondr-down.png" width="100%" height="250px"/>
-<!--
-**EverlastingStorm/EverlastingStorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
