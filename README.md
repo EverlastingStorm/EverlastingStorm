@@ -18,7 +18,7 @@
 </div>
 <div align="center">
   <p>Here's some of my personal favorite custom textures I've made, if anyone's curious.. I make these for a cobblemon server.
-    Texture related inquiries always welcome I'll happily yap about them.
+    Texture related questions always welcome I'll happily yap about them.
     Yes, I love scolipede.
   </p>
   <table>
