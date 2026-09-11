@@ -1,4 +1,4 @@
-<img src="header.png" width="100%" />
+<img src="https://i.ibb.co/DDjGxZD5/thondr-top.png" width="100%" />
 <div align="center">
   <h1>Your Name</h1>
   <p>Some tagline text</p>
