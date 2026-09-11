@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/DDjGxZD5/thondr-top.png" width="100%" height="250px"/>
 <div align="center">
   <h3>Ello, you can call me Synth,</h3>
-  <p>I like dabbling in cobblemon/minecraft textures and baking, alongside hanging out my favorite fandoms.</p>
+  <p>I like dabbling in cobblemon/minecraft textures and baking, alongside hanging out at my favorite fandoms.</p>
 
   <p>I'm over 18yo, so readers **below 16 DNI** unless it is a brief or professional interaction.
     Not much to see here, just a personal gallery (maybe in the future?) and basic info.
