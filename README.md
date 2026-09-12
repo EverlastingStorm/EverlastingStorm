@@ -1,32 +1,27 @@
 <img src="https://i.ibb.co/DDjGxZD5/thondr-top.png" width="100%" height="250px"/>
 <div align="center">
-  **Ello, you can call me Synth or Storm,**
+  <p>**Ello, you can call me Synth or Storm,**</p>
   <p>. I like dabbling in cobblemon/minecraft textures and baking, and I frequently hang around my favorite fandoms. Not much else to see here, this git is just a personal gallery (maybe in the future) and some basic info. I'm more of a gitlab user. </p>
   <p>-------------</p>
   <h3>- BYI -</h3>
-  . I'm over 18yo, so readers below 16 DNI UNLESS it is a brief, casual or professional interaction.\
-    . I'm totally C+H friendly, chatty and often find myself working on projects in varied groups, but that doesn't automatically make us friends.
+  <p>. I'm over 18yo, so readers below 16 DNI UNLESS it is a brief, casual or professional interaction.<br>. I'm totally C+H friendly, chatty and often find myself working on projects in varied groups, but that doesn't automatically make us friends.</p>
   
   <img src="https://i.ibb.co/Ng04DsDB/divider.png" width="100%" height="50px"/>
   
   <h3>- INTERESTS -</h3>
-  <p> . Phighting (rblx), Decaying Winter (rblx), Minecraft -> Cobblemon, SSO, Godzilla, Transformers.\
-    . Synthwave, rock and metal music... uhh.. can't name more off the top of my head lol. Whatever catches on I guess, I'm open to talking about anything.
+  <p> . Phighting (rblx), Decaying Winter (rblx), Minecraft -> Cobblemon, SSO, Godzilla, Transformers.<br>. Synthwave, rock and metal music... uhh.. can't name more off the top of my head lol. Whatever catches on I guess, I'm open to talking about anything.
   </p>
   <p>-------------</p>
   <h3>- DNI -</h3>
-  <p>. Basic DNI criteria. Don't be a public nuisance who interacts only to cause drama, don't harass, don't be weird, etc.\
-    . I prefer to stay away from problematic fandoms, but I'm not going to throw everyone into the same bucket unless the fandom is THAT bad. 
-  </p>
+  <p>. Basic DNI criteria. Don't be a public nuisance who interacts only to cause drama, don't harass, don't be weird, etc.<br>. I prefer to stay away from problematic fandoms, but I'm not going to throw everyone into the same bucket unless the fandom is THAT bad.</p>
+  
   <img src="https://i.ibb.co/Ng04DsDB/divider.png" width="100%" height="50px"/>
   
   <p></p>
 </div>
 <div align="center">
   <h3>- WIP GALLERY ??? ig??? -</h3>
-  <p>Here's some of my personal favorite custom textures I've made, if anyone's curious.. I make these for a cobblemon server.\
-    Texture related questions always welcome I'll happily yap about them.\
-    Yes, I love scolipede.
+  <p>. Here's some of my personal favorite custom textures I've made, if anyone's curious.. I make these for a cobblemon server.<br>. Texture related questions always welcome I'll happily yap about them.<br>. Yes, I love scolipede.
   </p>
   <table>
   <tr>
