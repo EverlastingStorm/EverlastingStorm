@@ -1,12 +1,12 @@
 <img src="https://i.ibb.co/DDjGxZD5/thondr-top.png" width="100%" height="250px"/>
 <div align="center">
-  <p>**Ello, you can call me Synth or Storm,**</p>
+  **Ello, you can call me Synth or Storm,**
   <p>. I like dabbling in cobblemon/minecraft textures and baking, and I frequently hang around my favorite fandoms. Not much else to see here, this git is just a personal gallery (maybe in the future) and some basic info. I'm more of a gitlab user. </p>
   <p>-------------</p>
   <h3>- BYI -</h3>
-  <p>. I'm over 18yo, so readers below 16 DNI UNLESS it is a brief, casual or professional interaction.\
+  . I'm over 18yo, so readers below 16 DNI UNLESS it is a brief, casual or professional interaction.\
     . I'm totally C+H friendly, chatty and often find myself working on projects in varied groups, but that doesn't automatically make us friends.
-  </p>
+  
   <img src="https://i.ibb.co/Ng04DsDB/divider.png" width="100%" height="50px"/>
   
   <h3>- INTERESTS -</h3>
