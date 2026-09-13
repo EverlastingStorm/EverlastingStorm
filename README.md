@@ -21,7 +21,7 @@
 </div>
 <div align="center">
   <h3>- wip gallery thingy ??? ig??? -</h3>
-  <p>. Here's some of my personal favorite custom textures I've made, if anyone's curious.. I make these for a cobblemon server.<br>. Texture related questions always welcome I'll happily yap about them.<br>. Yes, I love scolipede.
+  <p>. Here's some of my personal favorite custom cobblemon textures I've made, if anyone's curious..<br>. Texture related questions always welcome I'll happily yap about them.<br>. Yes, I love scolipede.
   </p>
   <table>
   <tr>
