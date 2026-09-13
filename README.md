@@ -23,7 +23,7 @@
   <h3>- wip gallery thingy ??? ig??? -</h3>
   <p>. Here's some of my personal favorite custom cobblemon textures I've made, if anyone's curious..<br>. Texture related questions always welcome I'll happily yap about them.<br>. Yes, I love scolipede.
   </p>
-  <table>
+  <table border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td><img src="https://i.ibb.co/NgpgmYkj/xerneas.png" width="200"></td>
     <td><img src="https://i.ibb.co/3mwmpYLH/garchomp.png" width="200"></td>
