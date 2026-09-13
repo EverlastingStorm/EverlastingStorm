@@ -1,9 +1,9 @@
 <img src="https://i.ibb.co/DDjGxZD5/thondr-top.png" width="100%" height="250px"/>
  <div align="center"> 
+
+   $\color{lightblue}{\text{She's like the wind.}}$
+  
   <img src="https://i.ibb.co/tPxwm5bW/wind.png" width="113px" height="50px"/> 
-  
-  $\color{red}{\text{test}}$
-  
  </div>
 <div align="center">
   <p><b> Ello, you can call me Synth or Storm</b></p>
