@@ -14,14 +14,12 @@
   
   </td>
   <td width="50%" align="center">
-  
   <h3>- DNI -</h3>
   <p>. Basic DNI criteria. Don't be a public nuisance who interacts only to cause drama, don't harass, don't be weird, etc.<br>. I prefer to stay away from problematic fandoms, but I'm not going to throw everyone into the same bucket unless the fandom is THAT bad.</p>
   
   </td>
   </tr>
   </table>
-  
   <h3>- INTERESTS -</h3>
   <p> . Phighting (rblx), Decaying Winter (rblx), Minecraft -> Cobblemon, SSO, Godzilla, Transformers.<br>. Synthwave, rock and metal music... uhh.. can't name more off the top of my head lol. Whatever catches on I guess, I'm open to talking about anything.
   </p>
