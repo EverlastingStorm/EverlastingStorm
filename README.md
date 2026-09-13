@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/DDjGxZD5/thondr-top.png" width="100%" height="250px"/>
 <div align="center">
-  <img src="https://i.ibb.co/tPxwm5bW/wind.png" width="450px" height="200px"/>
+  <img src="https://i.ibb.co/tPxwm5bW/wind.png" width="225px" height="100px"/>
   <p><b> Ello, you can call me Synth or Storm</b></p>
   <p>. I like dabbling in cobblemon/minecraft textures and baking, and I frequently hang around my favorite fandoms. Not much else to see here, this git is just a personal gallery (maybe in the future) and some basic info. I'm more of a gitlab user. </p>
   <p>-------------</p>
