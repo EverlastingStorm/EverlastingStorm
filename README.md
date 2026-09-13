@@ -26,7 +26,7 @@
   </tr>
   </table>
   <h3>- INTERESTS -</h3>
-  <p> . Phighting (rblx), Decaying Winter (rblx), Minecraft -> Cobblemon, SSO, Godzilla, Transformers.<br>. Synthwave, rock and metal music... uhh.. can't name more off the top of my head lol. Whatever catches on I guess, I'm open to talking about anything.
+  <p> . Phighting (rblx), Decaying Winter (rblx), Minecraft -> Cobblemon, SSO, Godzilla, Transformers, Rain world, JSAB<br>. Synthwave, rock and metal music... uhh.. can't name more off the top of my head lol. Whatever catches on I guess, I'm open to talking about anything.
   </p>
   <p>-------------</p>
   
