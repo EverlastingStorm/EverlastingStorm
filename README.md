@@ -9,7 +9,7 @@
 <div align="center">
   <p>
    
-   $\color{lightblue}{\textbf{\textit{Ello! You may call me Synth or Storm,}}}$
+   $\color{lightblue}{\textbf{Ello! You may call me Synth or Storm,}}$
   
   </p>
   <p> [ I'm 18+ !! ] 🗲 [ PL/ENG ] 🗲 [ Aro/Ace ]<br><i>[ Windforc c-link.. I promise I'm not a menace to society. Yet. ]</i></p>
@@ -19,12 +19,12 @@
  <tr>
   <th width="50%" align="center">
    
-   $\color{lightblue}{\textbf{\textit{BYI}}}$
+   $\color{lightblue}{\textbf{BYI}}$
    
    </th>
   <th width="50%" align="center">
   
-  $\color{lightblue}{\textbf{\textit{DNI}}}$
+  $\color{lightblue}{\textbf{DNI}}$
    
   </th>
  </tr>
