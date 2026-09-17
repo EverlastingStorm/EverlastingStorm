@@ -1,8 +1,7 @@
-<img src="https://i.ibb.co/DDjGxZD5/thondr-top.png" width="100%" height="250px"/>
  <div align="center"> 
 
    $\color{lightblue}{\text{She's like the wind.}}$
-  
+  <img src="https://i.ibb.co/9mXDFrR6/windbean.png" width="500px" height="250px"/> 
   <img src="https://i.ibb.co/tPxwm5bW/wind.png" width="113px" height="50px"/> 
  </div>
 <div align="center">
@@ -48,4 +47,3 @@
   <img src="https://i.ibb.co/S7Kbg2D9/hax.png" width="200">
   <img src="https://i.ibb.co/4RXMcPQm/umbre.png" width="200">
 </div>
-<img src="https://i.ibb.co/fdq19vBB/thondr-down.png" width="100%" height="250px"/>
