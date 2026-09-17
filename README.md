@@ -1,7 +1,7 @@
  <div align="center"> 
 
    $\color{lightblue}{\text{She's like the wind.}}$
-  <img src="https://i.ibb.co/9mXDFrR6/windbean.png" width="900px" height="600px"/> 
+  <img src="https://i.ibb.co/9mXDFrR6/windbean.png" width="800px" height="600px"/> 
   <img src="https://i.ibb.co/tPxwm5bW/wind.png" width="113px" height="50px"/> 
  </div>
 <div align="center">
