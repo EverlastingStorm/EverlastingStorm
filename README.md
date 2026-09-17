@@ -1,3 +1,7 @@
+<p align="center">
+   <img src="https://i.ibb.co/6cZ13h9F/banner2.png" width="100%" height="150px"/> 
+</p>
+
 <div align="center">
   
    $\color{lightblue}{\textbf{\textit{She's like the wind.}}}$
@@ -71,3 +75,6 @@
     <img src="https://i.ibb.co/4RXMcPQm/umbre.png" width="200">
    </details>
 </div>
+<p align="center">
+   <img src="https://i.ibb.co/mrD0GSHn/banner.png" width="100%" height="150px"/> 
+</p>
