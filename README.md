@@ -1,10 +1,7 @@
  <div align="center"> 
-
    $\color{lightblue}{\text{She's like the wind.}}$
-   
-  <img src="https://i.ibb.co/9mXDFrR6/windbean.png" width="800px" height="700px"/> 
-  <img src="https://i.ibb.co/tPxwm5bW/wind.png" width="113px" height="50px"/> 
-  
+   <img src="https://i.ibb.co/tPxwm5bW/wind.png" width="113px" height="50px"/> 
+   <img src="https://i.ibb.co/9mXDFrR6/windbean.png" width="800px" height="700px"/> 
  </div>
 <div align="center">
   <p><b> Ello, you can call me Synth or Storm,</b></p>
