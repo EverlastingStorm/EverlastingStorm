@@ -16,7 +16,7 @@
    $\color{lightblue}{\textbf{Ello! You may call me Synth or Storm,}}$
   
   </p>
-  <p> [ I'm 18+ !! ] 🗲 [ PL/ENG ] 🗲 [ Aro/Ace ]<br><i>[ Windforc c-link.. I promise I'm not a menace to society. Yet. ]</i></p>
+  <p> [ I'm 18+ !! ] 🗲 [ PL/ENG ] 🗲 [ aro/ace ]<br><i>[ Windforc c-link.. I promise I'm not a menace to society. Yet. ]</i><br>Hi I yap alot and I like meeting new people :]</p>
   <p align="center">
    <img src="https://i.ibb.co/SwxMgjRJ/cutiewind.png" width="60px" height="60px"/> 
 </p>
@@ -36,7 +36,7 @@
   </th>
  </tr>
  <tr>
-  <td width="50%" align="center">Readers below 16 DNI UNLESS it is a brief, casual or professional interaction.<br><br>I'm totally C+H friendly, chatty and often find myself working on projects in varied groups, but that doesn't automatically make us friends.</td>
+  <td width="50%" align="center">Readers below 16 DNI UNLESS it is a brief, casual or professional interaction.<br><br>I'm totally C+H friendly, chatty and often find myself working on projects in varied groups, but that doesn't automatically make us friends. I might be a little chaotic at times.</td>
   <td width="50%" align="center">Basic DNI criteria. Don't be a public nuisance who interacts only to cause drama, don't harass, don't be weird, etc.<br><br>I prefer to stay away from problematic fandoms, but iwc allowed unless you're gonna be troublesome.</td>
  </tr>
 </table>
