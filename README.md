@@ -17,6 +17,9 @@
   
   </p>
   <p> [ I'm 18+ !! ] 🗲 [ PL/ENG ] 🗲 [ Aro/Ace ]<br><i>[ Windforc c-link.. I promise I'm not a menace to society. Yet. ]</i></p>
+  <p align="center">
+   <img src="https://i.ibb.co/SwxMgjRJ/cutiewind.png" width="60px" height="60px"/> 
+</p>
 <br>
  
 <table>
