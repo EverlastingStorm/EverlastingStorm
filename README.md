@@ -64,7 +64,7 @@
 <div align="center">
  <details>
   <summary>
-    <h3>Image dump for my custom texture projects</h3>
+    <h3>Image dump for my custom cobblemon texture projects</h3>
   </summary>
     <p>Here's some of my personal favorite custom cobblemon textures I've made, I decided to keep them somewhere. Though idk how many I'll actually add onto this page.<br>Texture related questions always welcome I'll happily yap about them.<br>Yes, I love scolipede.<br>
     </p>
