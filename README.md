@@ -16,7 +16,7 @@
    $\color{lightblue}{\textbf{Ello! You may call me Synth or Storm,}}$
   
   </p>
-  <p> [ I'm 18+ !! ] 🗲 [ PL/ENG ] 🗲 [ aro/ace ]<br><i>[ Windforc c-link.. I promise I'm not a menace to society. Yet. ]</i><br>Hi I yap alot and I like meeting new people :]<br>omw to spread windforce propaganda /j</p>
+  <p> [ I'm 18+ !! ] 🗲 [ PL/ENG ] 🗲 [ aroacespec ]<br><i>[ Windforc c-link.. I promise I'm not a menace to society. Yet. ]</i><br>Hi I yap alot and I like meeting new people :]<br>omw to spread windforce propaganda /j</p>
   <p align="center">
    <img src="https://i.ibb.co/SwxMgjRJ/cutiewind.png" width="60px" height="60px"/>
 </p>
