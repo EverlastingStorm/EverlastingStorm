@@ -51,7 +51,7 @@
   </th>
  </tr>
  <tr>
-  <td align="left">Phighting(rblx), Decaying Winter(rblx), DvN(rblx), Minecraft -> Cobblemon, SSO, Godzilla, Transformers, Rain World, JSAB<br>Synthwave, rock and metal music... uhh.. can't name more off the top of my head lol. Whatever catches on I guess, I'm open to talking about anything.<br><br>Aspiring minecraft modeller and baker, currently learning to make custom rblx ugc.. 3/4th of the way there</td>
+  <td align="left">Phighting(rblx), Decaying Winter(rblx), DvN(rblx), Minecraft -> Cobblemon, SSO, Godzilla, Transformers, Rain World, JSAB<br>Muiscccc.. I love music.. esp synthwave and rock... uhh.. can't name more off the top of my head lol. Whatever catches on I guess, I'm open to talking about anything.<br><br>Aspiring minecraft modeller and baker, currently learning to make custom rblx ugc.. 3/4th of the way there</td>
  </tr>
 </table>
   
